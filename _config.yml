@@ -116,7 +116,7 @@ url-pretty: "jensmeinecke.de"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-19289451-3"
+#google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
