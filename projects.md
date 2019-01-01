@@ -18,7 +18,7 @@ bigimg: /assets/myway.jpg
 
   <li>
     <h3><i class="fa-li fa {{ icon }}"></i><a href="{{ project.url }}">{{ project.title }}</a></h3>
-          <i class="fa fa-calendar"></i> {{ project.project_start_date | date: "%-d. %B, %Y" }}
+          <i class="fa fa-calendar"></i> {{ project.project_start_date | date: "%m.%Y" }} - {{ project.project_end_date | date: "%m.%Y" }}
           &nbsp;
           <i class="fa fa-map-marker"></i> {{ project.project_location }}
   </li>

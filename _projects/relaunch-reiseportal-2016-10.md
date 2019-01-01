@@ -2,6 +2,7 @@
 title: "Relaunch Reiseportal"
 subtitle: "Relaunch eines Reiseportals"
 category: "Website"
+layout: "project"
 project_name: "Relaunch eines Reiseportals"
 project_sector: "tourism"
 project_location: "Frankfurt"
