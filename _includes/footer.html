@@ -8,11 +8,11 @@
             {%- assign element = site.data.SocialNetworks[curkey] -%}
             <li>
             {%- if curkey == 'rss' -%}
-              <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
+              <a href="{{ '/feed.xml' | prepend: site.baseurl }}" target="_blank" title="{{ element.name }}">
             {%- elsif curkey == 'yelp' -%}
-              <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
+              <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" target="_blank" title="{{ element.name }}">
             {%- else -%}
-              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
+              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" target="_blank" title="{{ element.name }}">
             {%- endif -%}
                 <span class="fa-stack fa-lg" aria-hidden="true">
                   <i class="fa fa-circle fa-stack-2x"></i>
@@ -29,10 +29,10 @@
       {{ site.time | date: '%Y' }}
 
       &nbsp;&bull;&nbsp;
-      <a href="/impressum" title="Impressum">Impressum</a>
+      <a href="/impressum" target="_blank" title="Impressum">Impressum</a>
       
       &nbsp;&bull;&nbsp;
-      <a href="/datenschutz" title="Datenschutzerklärung">Datenschutz</a>
+      <a href="/datenschutz" target="_blank" title="Datenschutzerklärung">Datenschutz</a>
       
       {% if site.url-pretty %}
       &nbsp;&bull;&nbsp;
@@ -49,7 +49,7 @@
           <!-- Please don't remove this, keep my open source work credited :) -->
     <p class="theme-by text-muted">
       Theme by
-      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+      <a href="https://deanattali.com/beautiful-jekyll/" target="_blank">beautiful-jekyll</a>
     </p>
       </div>
     </div>
