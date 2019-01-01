@@ -4,4 +4,4 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Ich starte im neuen Jahr mit neuer privater Site!
