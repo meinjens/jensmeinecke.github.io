@@ -46,8 +46,8 @@ navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#476F79"
-footer-text-col: "#FFFFFF"
+footer-col: "#B5C2B7"
+footer-text-col: "#2D2327"
 footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -70,15 +70,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-#  facebook: daattali
+  email: "mail@jensmeinecke.de"
   github: meinjens
   twitter: meinjens
-#  reddit: yourname
-#  google-plus: +DeanAttali
   linkedin: in/jens-meinecke
   xing: Jens_Meinecke5
 #  stackoverflow: "3943160/daattali"
+#  reddit: yourname
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
