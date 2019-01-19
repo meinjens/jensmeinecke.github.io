@@ -31,14 +31,14 @@ Ich hatte zu dem Zeitpunkt gerade mit dem Studium begonnen. Dieses Projekt war d
 
 [gamer-FM im Jahre von damals in der Wayback Machine](https://web.archive.org/web/20050211221917/http://www.gamer-fm.de/main.php/news)
 
-* [News]
+* [News](news)
 * [Programmplan]
 * [Adminbereich]
 * [Live-Coverage von der Activation LAN]
 
 #### News
 
-![gamer-FM News](/assets/gamer-fm-2004/gamer-fm-adminbereich.png)
+![gamer-FM News](/assets/gamer-fm-2004/gamer-fm-newsbereich.png)
 
 #### Programmplan
 
@@ -46,7 +46,7 @@ Ich hatte zu dem Zeitpunkt gerade mit dem Studium begonnen. Dieses Projekt war d
 
 #### Adminbereich
 
-![gamer-FM Adminbereich](/assets/gamer-fm-2004/gamer-fm-newsbereich.png)
+![gamer-FM Adminbereich](/assets/gamer-fm-2004/gamer-fm-adminbereich.png)
 
 #### Live-Coverage von der Activation LAN
 
