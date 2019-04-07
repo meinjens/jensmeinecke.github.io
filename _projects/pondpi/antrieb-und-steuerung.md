@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Antrieb und Steuerung
+permalink: /projects/pondpi/antrieb-und-steuerung
 ---
 
 <!-- wp:heading -->
