@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rumpf
+title: Unterwasserkamera
 ---
 
 ### Anforderungen
