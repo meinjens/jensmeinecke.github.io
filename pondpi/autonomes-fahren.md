@@ -3,7 +3,7 @@ layout: page
 title: Autonomes Fahren
 ---
 
-### Anforderungen
+## Anforderungen
 
 * Abfahren einer Strecke nach Vorgabe eines Tracks
 * Eigenständiges Abfahren eines Gewässers
@@ -13,6 +13,6 @@ title: Autonomes Fahren
 * Implementierung unter Python
 * Protokollierung der Sensordaten und Entscheidungen
 
-### Lösungsmöglichkeiten
+## Lösungsmöglichkeiten
 
 Derzeit haben wir hier noch keine konkrete Idee, wie wir das Problem lösen wollen.

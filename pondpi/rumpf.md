@@ -5,7 +5,7 @@ title: Rumpf
 
 Um den Rumpf für das Wasserfahrzeug bauen zu können gibt es viele Möglichkeiten. Wir haben uns überlegt, welche Anforderungen wir haben:
 
-### Anforderungen
+## Anforderungen
 
 * Kostengünstige Materialien
 * Relativ viel Platz im Innenraum für die Elektronik
@@ -13,7 +13,7 @@ Um den Rumpf für das Wasserfahrzeug bauen zu können gibt es viele Möglichkeit
 * Stabile Lage auf dem Wasser
 * Wasserdicht auch durch Wasser von oben
 
-### Material für den Rumpf
+## Material für den Rumpf
 
 Wir haben folgende Ansätze bei der Auswahl des Materials für den Rumpf betrachtet:
 
@@ -41,7 +41,7 @@ Ein [Karpfen-Blog mit einer Anleitung für ein Futterboot](http://www.tipp-karpf
 
 Ein anderer Tüftler hat den [Rumpf nur aus XPS](https://www.youtube.com/watch?v=MDAaurIjSMg) (extrudierter Hartschaum) gebaut und war damit ebenfalls erfolgreich. Nachteil bei den Materialien ist sicherlich die Wandstärke, die meist dicker ausfällt, als beispielsweise bei Holz oder nur GFK.
 
-### Form für den Rumpf
+## Form für den Rumpf
 
 **Arbeitsschiffe**
 
@@ -55,6 +55,6 @@ Viele Selbstbau Futterboot Projekte verfolgen den Ansatz vom Katamaran. Er biet
 
 Ein zusätzlicher Rumpf in der Mitte soll uns den notwendigen Platz für Sensoren und die Technik bieten. Die Ausleger bieten dann den notwendigen Raum für die Antriebe.
 
-### Entscheidung
+## Entscheidung
 
 Wir haben uns schließlich für die Variante Trimaran aus GFK mit Sperrholz entschieden. Das sollte unseren Anforderungen genügen. Zur Verbindung der Rümpfe verwenden wir ein Aluprofil.

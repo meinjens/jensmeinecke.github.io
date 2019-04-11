@@ -2,7 +2,7 @@
 layout: page
 title: Tiefenmessung per Echolot
 ---
-### Anforderungen
+## Anforderungen
 
 *   Anbindung an den Raspberry Pi
 *   Kostengünstiger Sensor
@@ -10,7 +10,7 @@ title: Tiefenmessung per Echolot
 *   Geringer Stromverbrauch
 *   Frequenzbereich 200kHz um die Tiere nicht zu stören
 
-### Mögliche Sensoren
+## Mögliche Sensoren
 
 **Signalgeber**
 
