@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PondPi - Kommunikation zur Basisstation
+title: Kommunikation zur Basisstation
 ---
 
 ### Anforderungen

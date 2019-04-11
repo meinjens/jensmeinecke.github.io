@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PondPi - Rumpf
+title: Rumpf
 ---
 
 ### Anforderungen

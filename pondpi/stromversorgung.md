@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pond Pi - Stromversorgung
+title: Stromversorgung
 ---
 
 ### Anforderungen

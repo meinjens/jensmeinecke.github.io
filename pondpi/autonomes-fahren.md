@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PondPi - Autonomes Fahren
+title: Autonomes Fahren
 ---
 
 ### Anforderungen

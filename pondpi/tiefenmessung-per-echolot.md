@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pond Pi - Tiefenmessung per Echolot
+title: Tiefenmessung per Echolot
 ---
 ### Anforderungen
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PondPi - Navigation und Orientierung
+title: Navigation und Orientierung
 ---
 
 

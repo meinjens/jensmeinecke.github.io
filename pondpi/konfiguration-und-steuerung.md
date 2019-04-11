@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PondPi - Steuerung und Konfiguration
+title: Steuerung und Konfiguration
 ---
 
 ### Anforderungen

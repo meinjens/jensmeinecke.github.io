@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PondPi - Antrieb und Ruder
+title: Antrieb und Ruder
 ---
 
 ### Anforderungen

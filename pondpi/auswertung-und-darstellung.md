@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PondPi - Auswertung und Darstellung
+title: Auswertung und Darstellung
 ---
 
 ### Anforderungen

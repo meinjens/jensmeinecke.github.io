@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pond Pi - Rumpf
+title: Rumpf
 ---
 
 Um den Rumpf für das Wasserfahrzeug bauen zu können gibt es viele Möglichkeiten. Wir haben uns überlegt, welche Anforderungen wir haben:
