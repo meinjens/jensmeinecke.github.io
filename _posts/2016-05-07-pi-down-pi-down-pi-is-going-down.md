@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bau der Ausleger
-tags: [raspberrypi, pondpi]
+tags: [raspberrypi, homecontrolpi]
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erster Testlaufs des Antriebs
-tags: [raspberrypi]
+tags: [raspberrypi, pondpi]
 comments: true
 ---
 
