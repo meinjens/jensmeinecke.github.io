@@ -9,19 +9,27 @@ project_location: "Frankfurt"
 project_start_date: 2015-01-01
 ---
 
-<p id="section-FrontPage-PondPi">Das Projekt widmet sich einem autonom fahrendem Wasserfahrzeug, dass kleinere Gewässer wie Teiche (engl. Pond) kartografieren soll. Damit sich der Aufwand lohnt - und weil wir Angler sind - bauen wir die Funktionen eines Futterbootes gleich auch noch mit ein.</p>
-<h2 id="section-FrontPage-Status">Status</h2>
-<p>Das Projekt befindet sich noch in der Evaluierungsphase. Die verschiedenen Problemstellungen werden zunächst einzeln verprobt. Den Fortschritt könnt im Blog nachlesen.</p>
-<h2 id="section-FrontPage-Problemstellungen">Problemstellungen</h2>
-<ul>
-<li><a href="http://meinjens.de/projekte/pondpi/rumpf/">Rumpf</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/antrieb-und-steuerung/">Antrieb und Ruder</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/stromversorgung/">Stromversorgung</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/navigation-ueber-gps/">Navigation und Orientierung</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/tiefenmessung-per-echolot/">Tiefenmessung per Echolot</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/kommunikation/">Kommunikation</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/konfiguration-und-steuerung/">Konfiguration und Steuerung</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/autonomes-fahren/">Autonomes Fahren</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/unterwasserkamera/">Unterwasserkamera</a></li>
-<li><a href="http://meinjens.de/projekte/pondpi/auswertung-und-darstellung/">Auswertung und Darstellung</a></li>
-</ul>
+Der PondPi ist ein autonomes Wasserfahrzeug, das kleinere Gewässer kartografieren soll. Die Idee habe ich zusammen mit meinem Vater entwickelt.
+
+### Status
+
+Der PondPi Rumpf und die Motoren sind eingebaut. Wir arbeiten im Moment daran das Boot mit dem Handy fernzusteuern. Gleichzeitig sind wir auf der Suche nach einem kostengünstigen Echolot als Selbstbauvariante.
+
+### Herausforderung
+
+Die Herausforderungen liegen in der Kombination von Mechanik, Technik und Programmierung. Das Wasserfahrzeug soll autonom fahren und gleichzeitig das Gewässer vermessen. Das bedeutet, dass wir verschiedenste Probleme lösen, wie beispielsweise Bootsbau, Navigation, Echolot, Autonomes Fahren, Erkennen von Hindernissen, Notfallsituationen. Das Projekt ist ein Hobby und hat kein großes Budget zur Verfügung.
+
+### Aufgaben
+
+- Entwurf und Bau des Rumpfes
+- Steuerung des Schiffs
+- Bau und Auswertung der Sensoren (GPS, Kompass, Abstand, Echolot)
+- Kommunikation zu Basisstation
+- Implementierung der autonomen Steuerung
+- Implementierung der Anzeige des Tiefenprofils
+
+### Erfahrungen
+
+Etwas zu bauen, dass sich nicht virtuell ausprägt sondern zum Anfassen ist, spornt uns an. Ich bin stolz auf die Arbeit von meinem Vater und mir, die sich über viele Jahre streckt.
+
+[Weitere Informationen zum autonomen Wasserfahrzeug findest Du auf der PondPi Projekt Seite](/pondpi/index)
