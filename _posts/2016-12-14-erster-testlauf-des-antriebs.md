@@ -30,24 +30,14 @@ Die Belegung der GPIOs haben wir im ersten Schritt übernommen. In der Software
 ||+ 3,3 V|1|2|+ 5 V|Anschluss an 5V auf der L298N-H Brücke|
 ||(SDA1) GPIO 2|3|4|+ 5 V||
 ||(SCL1) GPIO 3|5|6|GND|Anschluss an GND auf der L298N-H Brücke|
-|EN A
-
-PWM für Motor 1|(GPIO_GCLK) GPIO 4|7|8|GPIO 14 (TXD0)||
+|EN A: PWM für Motor 1|(GPIO_GCLK) GPIO 4|7|8|GPIO 14 (TXD0)||
 ||GND|9|10|GPIO 15 (RXD0)||
-|EN B
-
-PWM für Motor 2|(GPIO_GEN0) GPIO 17|11|12|GPIO 18 (GPIO_GEN1)||
-|IN 1
-Richtung für Motor 1|(GPIO_GEN2) GPIO 27|13|14|GND||
-|IN 2
-
-Richtung für Motor 1|(GPIO_GEN3) GPIO 22|15|16|GPIO 23 (GPIO_GEN4)||
-||+ 3,3 V|17|18|GPIO 24 (GPIO_GEN5)|IN 3
-
-Richtung für Motor 2|
+|EN B: PWM für Motor 2|(GPIO_GEN0) GPIO 17|11|12|GPIO 18 (GPIO_GEN1)||
+|IN 1: Richtung für Motor 1|(GPIO_GEN2) GPIO 27|13|14|GND||
+|IN 2: Richtung für Motor 1|(GPIO_GEN3) GPIO 22|15|16|GPIO 23 (GPIO_GEN4)||
+||+ 3,3 V|17|18|GPIO 24 (GPIO_GEN5)|IN 3: Richtung für Motor 2|
 ||(SPI_MOSI) GPIO 10|19|20|GND||
-||(SPI_MISO) GPIO 9|21|22|GPIO 25 (GPIO_GEN6)|IN 4
-Richtung für Motor 2|
+||(SPI_MISO) GPIO 9|21|22|GPIO 25 (GPIO_GEN6)|IN 4: Richtung für Motor 2|
 ||(SPI_SLCK) GPIO 11|23|24|GPIO 8 (SPI_CE0_N)||
 ||GND|25|26|GPIO 7 (SPI_CE1_N)||
 ||(nur für I2C) ID_SD|27|28|ID_SC (nur für I2C)||
