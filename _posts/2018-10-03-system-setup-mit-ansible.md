@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neue Motoren
+title: System-Setup mit Ansible
 tags: [raspberrypi, pondpi, ansible, devops]
 ---
 
