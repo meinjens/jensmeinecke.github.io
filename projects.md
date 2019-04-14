@@ -42,5 +42,5 @@ bigimg: /assets/myway.jpg
   <li><i class="fa-li fa fa-flask"></i> Experiment</li>
   <li><i class="fa-li fa fa-graduation-cap"></i> Workshop</li>
   <li><i class="fa-li fa fa-quote-right"></i> Talk</li>
-  <li><i class="fa-li fa fa-quote-desktop"></i> Sonstige</li>
+  <li><i class="fa-li fa fa-desktop"></i> Sonstige</li>
 </ul>
