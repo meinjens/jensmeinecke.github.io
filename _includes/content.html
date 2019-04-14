@@ -8,12 +8,12 @@
         <ul class="pager blog-pager">
           {% if page.previous.url %}
             <li class="previous">
-              <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous {{ include.type }}</a>
+              <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Vorheriger {{ include.type }}</a>
             </li>
           {% endif %}
           {% if page.next.url %}
             <li class="next">
-              <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next {{ include.type }} &rarr;</a>
+              <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Nächster {{ include.type }} &rarr;</a>
             </li>
           {% endif %}
         </ul>

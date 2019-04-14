@@ -183,7 +183,6 @@ defaults:
       layout: "post"
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      lang: de
   -
     scope:
       path: "" # all files
@@ -196,7 +195,7 @@ defaults:
       type: "projects"
     values:
       layout: project
-      permalink: /projects/:title.html
+      permalink: /projects/:title
 
 
 # Extensions

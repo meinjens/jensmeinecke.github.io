@@ -20,7 +20,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
+      Ver&ouml;ffentlicht am {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
     <div class="post-entry-container">
@@ -61,12 +61,12 @@ use-site-title: true
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Neuere Beitr&auml;ge</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&Auml;ltere Beitr&auml;ge &rarr;</a>
   </li>
   {% endif %}
 </ul>
