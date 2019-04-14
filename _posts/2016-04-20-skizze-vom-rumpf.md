@@ -2,7 +2,6 @@
 layout: post
 title: Skizze vom Rumpf
 tags: [raspberrypi, pondpi]
-comments: true
 ---
 
 <p>Wir haben uns für einen Trimaran entschieden. Das erschien uns als geeignete Bootsform mit viel Platz für die Elektronik und Sensoren. Außerdem liegt es sehr stabil im Wasser und bietet zudem Kapazität für Zuladung von Futter oder schweren Akkus.</p>

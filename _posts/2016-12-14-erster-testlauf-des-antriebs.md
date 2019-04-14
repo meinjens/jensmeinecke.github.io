@@ -1,3 +1,8 @@
+---
+layout: post
+title: Erster Testlauf des Antriebs
+tags: [raspberrypi, pondpi]
+---
 Wir haben uns für den zwei Motorenantrieb entschieden. Mit Hilfe der kostengünstigen L298N H-Brücke lässt sich der zudem sehr einfach umsetzen. Auch für die Größe und die Navigationseigenschaften schien uns das der geeignete Antrieb zu sein.
 
 Dabei hat uns auch das tolle Projekt [Cardboard Car](http://www.cardboard-car.com) inspiriert. Dort finden sich sowohl Bauanleitungen mit Tipps und Tricks, die sich wunderbar auf unser Projekt übertragen lassen.

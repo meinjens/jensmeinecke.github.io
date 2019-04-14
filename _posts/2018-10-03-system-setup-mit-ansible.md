@@ -1,3 +1,9 @@
+---
+layout: post
+title: Neue Motoren
+tags: [raspberrypi, pondpi, ansible, devops]
+---
+
 Das Setup der Raspberry Pis habe ich nun schon mehrfach durchführen müssen. In meinem letzten Job habe ich ein schönes Tool gefunden, womit ich das Setup reproduzierbar in Code gießen kann: Ansible.
 
 [Ansible](https://www.ansible.com/) ist ein Automatisierungs Tool für IT Infrastrukturen. Mit Hilfe des Tools richte ich das Betriebssystem der beiden Raspberry Pis ein.
