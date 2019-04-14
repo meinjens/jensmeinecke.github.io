@@ -782,3 +782,15 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+
+/* projects page */
+
+ul.legend {
+  margin: 50px auto 0;
+  display: flex;
+}
+
+ul.legend > li {
+  flex: 1;
+}
