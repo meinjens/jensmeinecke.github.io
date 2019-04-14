@@ -4,6 +4,7 @@ subtitle: "Statusanzeige für den Betrieb"
 category: "Fun"
 layout: "project"
 project_name: "Portal Monitor - Statusanzeige für den Betrieb"
+project_type: "experiment"
 project_sector: "tourism"
 project_location: "Frankfurt"
 project_start_date: 2013-01-01

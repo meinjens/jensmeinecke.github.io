@@ -4,6 +4,7 @@ subtitle: "Autonomes Wasserfahrzeug zum Vermessen von Gewässern"
 category: "Experiment"
 layout: "project"
 project_name: "PondPi - Wo sind die Fische?"
+project_type: "experiment"
 project_sector: "nature"
 project_location: "Frankfurt"
 project_start_date: 2015-01-01

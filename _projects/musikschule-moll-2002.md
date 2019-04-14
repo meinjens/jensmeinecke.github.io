@@ -4,6 +4,7 @@ subtitle: "Playing the guitar"
 category: "Website"
 layout: "project"
 project_name: "Musikschule Moll"
+project_type: "implementation"
 project_sector: "education"
 project_location: "Paderborn"
 project_start_date: 2001-01-01

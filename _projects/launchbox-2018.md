@@ -4,6 +4,7 @@ subtitle: "Website Launch mal anders"
 category: "Show"
 layout: "project"
 project_name: "Launch Box - Website Launch mal anders"
+project_type: "experiment"
 project_sector: "tourism"
 project_location: "Frankfurt"
 project_start_date: 2016-12-01

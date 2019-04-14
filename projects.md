@@ -10,8 +10,16 @@ bigimg: /assets/myway.jpg
 {% for project in projects %}
   {% if project.project_type == "implementation" %}
     {% assign icon = 'fa-laptop' %}
-  {% else %}
+  {% elsif project.project_type == "consulting" %}
+    {% assign icon = 'fa-building' %}
+  {% elsif project.project_type == "experiment" %}
+    {% assign icon = 'fa-flask' %}
+  {% elsif project.project_type == "workshop" %}
     {% assign icon = 'fa-graduation-cap' %}
+  {% elsif project.project_type == "talk" %}
+    {% assign icon = 'fa-quote-right' %}
+  {% else %}
+    {% assign icon = 'fa-desktop' %}
   {% endif %}
 
   <li>

@@ -5,6 +5,7 @@ category: "Website"
 layout: "project"
 project_name: "gamer-FM - Gaming Radio Portal"
 project_sector: "entertainment"
+project_type: "implementation"
 project_location: "Paderborn"
 project_start_date: 2002-01-01
 project_end_date: 2006-12-31

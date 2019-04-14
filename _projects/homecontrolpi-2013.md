@@ -4,6 +4,7 @@ subtitle: "Home Automation im Selbstbau"
 category: "Home Automation"
 layout: "project"
 project_name: "HomeControlPi - Home Automation im Selbstbau"
+project_type: "experiment"
 project_sector: "IoT"
 project_location: "Frankfurt"
 project_start_date: 2013-01-01
