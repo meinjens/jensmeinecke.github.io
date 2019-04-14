@@ -33,4 +33,4 @@ Ich entschied mich für ein Kontrollpult aus OSB Platten (9mm). Das Pult bekam e
 
 Besonders spannend war der Mix aus den verschiedenen Tätigkeiten aus dem Handwerk, der Elektronik und Entwicklung. Das kleine Projekt hat sehr viel Spaß gemacht, obwohl es komplett in der Freizeit neben der anstregenden Projektentwicklung entstanden ist. Der Fortschritt war jeden Abend sichtbar. Und das am Ende alles reibungslos funktioniert hat, war ein sehr schönes Gefühl.
 
-
+[![](/assets/launchbox/launchbox-small.jpg)](/assets/launchbox/launchbox.jpg)
