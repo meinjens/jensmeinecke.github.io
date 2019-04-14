@@ -35,3 +35,12 @@ bigimg: /assets/myway.jpg
   </li>
 {% endfor %}
 </ul>
+
+<ul class="legend">
+  <li><i class="fa-li fa fa-laptop"></i> Implementierung</li>
+  <li><i class="fa-li fa fa-building"></i> Beratung</li>
+  <li><i class="fa-li fa fa-flask"></i> Experiment</li>
+  <li><i class="fa-li fa fa-graduation-cap"></i> Workshop</li>
+  <li><i class="fa-li fa fa-quote-right"></i> Talk</li>
+  <li><i class="fa-li fa fa-quote-right"></i> Sonstige</li>
+</ul>
