@@ -36,7 +36,7 @@ bigimg: /assets/myway.jpg
 {% endfor %}
 </ul>
 
-<ul class="legend">
+<ul class="fa-ul legend">
   <li><i class="fa-li fa fa-laptop"></i> Implementierung</li>
   <li><i class="fa-li fa fa-building"></i> Beratung</li>
   <li><i class="fa-li fa fa-flask"></i> Experiment</li>
