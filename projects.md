@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projekte
-subtitle: Kleine und große Projekte
 bigimg: /assets/myway.jpg
 ---
 
