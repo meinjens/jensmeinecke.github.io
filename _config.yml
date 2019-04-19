@@ -217,6 +217,8 @@ collections:
     output: true
   workshops:
     output: true
+  talks:
+    output: true
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
