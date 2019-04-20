@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Talks
+bigimg: /assets/kaiserschmarn.jpg
 ---
 
 <ul class="fa-ul">
