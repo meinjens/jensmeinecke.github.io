@@ -24,3 +24,8 @@ Die Teilnehmer sollen einen Eindruck bekommen, welche unterschiedlichen Arten de
 ### Dauer
 
 ca. 2h
+
+
+### Weitere Termine
+
+derzeit nicht geplant
