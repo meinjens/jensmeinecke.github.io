@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Auswertung und Darstellung
+permalink: /pondpi/auswertung-und-darstellung
 ---
 
 ## Anforderungen

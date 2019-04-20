@@ -2,6 +2,7 @@
 layout: page
 title: Talks
 bigimg: /assets/niagara_falls_light.jpg
+permalink: /talks
 ---
 
 <ul class="fa-ul">

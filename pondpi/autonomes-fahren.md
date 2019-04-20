@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Autonomes Fahren
+permalink: /pondpi/autonomes-fahren
 ---
 
 ## Anforderungen

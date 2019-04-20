@@ -1,7 +1,0 @@
----
-layout: page
-title: Datenschutz
-subtitle: Warum? Weshalb? Wieso?
----
-
-<p class="intro">Software Entwicklung verstehe ich als Handwerk. Aus dem Rohmaterial wird Schritt für Schritt die Software gefertigt. Dabei wird die Software immer weiter geformt, wie der Schmied das Eisen formt: Erhitzen, Schmieden, Härten. Red, Green, Refactor.</p><p>Im Alter von 12 begann ich mit Basic Programmierung auf dem C64. Seid dieser Zeit lässt mich das Thema Software Entwicklung nicht mehr los. Das Lösen von komplexen Problemen auf dem Computer fesselt mich bis heute und fordert mich immer wieder aufs Neue heraus. Es ist der kreative Fertigungsprozess und das Glücksgefühl, wenn die Software fertig ist, was mich antreibt. Die Entwicklung von Software ist für mich nicht bloß ein Job. Ich fühle mich dazu berufen und übe es mit Leidenschaft aus. Gemeinsam im Team hoch qualitative Software Produkte zu fertigen, ist das was mir am allerbesten an meinem Beruf gefällt. Obwohl ich mich seid langer Zeit mit dem Thema befasse, sehe ich mich nicht als Meister sondern als Geselle ("Journeyman"). Lebenslanges Lernen und die eigenen Fertigkeiten immer wieder trainieren und erweitern, gehören zu meinem Leben, wie Zähneputzen und Händewaschen.</p>

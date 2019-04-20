@@ -2,6 +2,7 @@
 layout: page
 title: Projekte
 bigimg: /assets/myway.jpg
+permalink: /projects
 ---
 
 <ul class="fa-ul">

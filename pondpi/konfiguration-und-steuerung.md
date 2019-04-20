@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Steuerung und Konfiguration
+permalink: /pondpi/konfiguration-und-steuerung
 ---
 
 ## Anforderungen

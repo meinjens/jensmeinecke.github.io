@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Antrieb und Ruder
+permalink: /pondpi/antrieb-und-ruder
 ---
 
 ## Anforderungen

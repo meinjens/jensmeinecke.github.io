@@ -2,6 +2,7 @@
 layout: page
 title: Workshops
 bigimg: /assets/kaiserschmarn.jpg
+permalink: /workshops
 ---
 
 <ul class="fa-ul">

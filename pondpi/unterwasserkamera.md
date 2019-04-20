@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Unterwasserkamera
+permalink: /pondpi/unterwasserkamera
 ---
 
 ## Anforderungen

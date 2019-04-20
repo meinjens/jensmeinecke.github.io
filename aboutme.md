@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Über mich
+permalink: /aboutme
 ---
 
 Ich bin Jens Meinecke und komme aus dem wunderschönen Lippe. Mit 12 Jahren entdeckte ich durch den C64 meine Faszination für die Computertechnik. Seid dieser Zeit lässt mich das Thema Software Entwicklung nicht mehr los. Das Lösen von komplexen Problemen fesselt mich bis heute und fordert mich immer wieder aufs Neue heraus. Es ist der kreative Fertigungsprozess, das Glücksgefühl, wenn die Software fertig ist und ich das Lächeln in den Augen meiner Kunden, was mich antreibt.

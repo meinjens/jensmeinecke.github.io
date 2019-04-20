@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Navigation und Orientierung
+permalink: /pondpi/navigation-und-orientierung
 ---
 
 

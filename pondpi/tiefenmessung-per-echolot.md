@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tiefenmessung per Echolot
+permalink: /pondpi/tiefenmessung-per-echolot
 ---
 ## Anforderungen
 

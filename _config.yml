@@ -215,10 +215,13 @@ defaults:
 collections:
   projects:
     output: true
+    permalink: /:collection/:name
   workshops:
     output: true
+    permalink: /:collection/:name
   talks:
     output: true
+    permalink: /:collection/:name
 
 # Use tags index page and make tags on each post clickable
 link-tags: true

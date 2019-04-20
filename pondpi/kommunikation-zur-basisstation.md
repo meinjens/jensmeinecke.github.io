@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kommunikation zur Basisstation
+permalink: /pondpi/kommunikation-zur-basisstation
 ---
 
 ## Anforderungen

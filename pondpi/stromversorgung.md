@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stromversorgung
+permalink: /pondpi/stromversorgung
 ---
 
 ## Anforderungen
