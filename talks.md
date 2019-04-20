@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-bigimg: /assets/kaiserschmarn.jpg
+bigimg: /assets/niagara_falls_light.jpg
 ---
 
 <ul class="fa-ul">
