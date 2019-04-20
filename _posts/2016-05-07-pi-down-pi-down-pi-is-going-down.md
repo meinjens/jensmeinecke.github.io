@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bau der Ausleger
+title: Pi down, Pi down, Pi is going down
 tags: [raspberrypi, homecontrolpi]
 ---
 
