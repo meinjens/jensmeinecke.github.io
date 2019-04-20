@@ -24,7 +24,7 @@ Um die Motoren zu steuern, haben wir die Software vom [Cardboard Car](http://www
 
 Auf dem Schaltplan symbolisiert das Akkupack unsere 12V Stromquelle.
 
-[![Schaltung der Motorsteuerung](http://meinjens.de/wp-content/uploads/2016/04/Schaltung-Motorsteuerung_Steckplatine-300x247.png)](http://meinjens.de/wp-content/uploads/2016/04/Schaltung-Motorsteuerung_Steckplatine.png)
+[![Schaltung der Motorsteuerung](/assets/pondpi/Schaltung-Motorsteuerung_Steckplatine-300x247.png)](/assets/pondpi/Schaltung-Motorsteuerung_Steckplatine.png)
 
 ## Belegung der GPIOs
 
