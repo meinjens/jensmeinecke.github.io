@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rumpf
+permalink: /pondpi/rumpf
 ---
 
 Um den Rumpf für das Wasserfahrzeug bauen zu können gibt es viele Möglichkeiten. Wir haben uns überlegt, welche Anforderungen wir haben:
