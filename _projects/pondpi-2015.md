@@ -33,4 +33,4 @@ Etwas zu bauen, dass sich nicht virtuell ausprägt sondern zum Anfassen ist, spo
 
 Der PondPi Rumpf und die Motoren sind eingebaut. Wir arbeiten im Moment daran das Boot mit dem Handy fernzusteuern. Gleichzeitig sind wir auf der Suche nach einem kostengünstigen Echolot als Selbstbauvariante.
 
-[Weitere Informationen zum autonomen Wasserfahrzeug findest Du auf der PondPi Projekt Seite](/pondpi/index)
+[Weitere Informationen zum autonomen Wasserfahrzeug findest Du auf der PondPi Projekt Seite](/pondpi)
