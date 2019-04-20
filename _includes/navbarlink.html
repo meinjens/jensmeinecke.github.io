@@ -8,14 +8,16 @@
 {% endif %}
 
 {% if internal %}
-  {% capture linkurl %}{{ site.baseurl }}/{{ include.link[1] }}{% endcapture %}
+  {% capture pagename %}{{ include.link[1] }}{% endcapture %}
+  {% if internal and pagename == "index" %}
+    {% capture linkurl %}{{ site.baseurl }}/{{ include.link[1] }}{% endcapture %}
+  {% else %}
+    {% capture linkurl %}{{ site.baseurl }}/{{ include.link[1] }}/{% endcapture %}
+  {% endif %} 
 {% else %}
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
 {% endif %}
 
-{% capture pagename %}{{ include.link[1] }}{% endcapture %}
-{% if internal and pagename != "index" %}
-  {% capture linkurl %}{{ include.link[1] }}/{% endcapture %}
-{% endif %}
+
 
 <a href="{{ linkurl }}">{{ include.link[0] }}</a>
