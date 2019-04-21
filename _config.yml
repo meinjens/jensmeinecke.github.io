@@ -24,6 +24,7 @@ description: Meine Arbeiten und Werke
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
+  Blog: "https://happytechlead.de"
   Projects: "projects"
   Workshops: "workshops"
   Talks: "talks"
