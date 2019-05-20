@@ -4,7 +4,7 @@ title: Meine beruflichen Stationen
 permalink: /meine-beruflichen-stationen
 ---
 
-== Arbeitgeber
+## Arbeitgeber
 
 * 10/2018 - heute: DB Systel
 * 07/2016 - 09/2018: DER Touristik Online GmbH
@@ -14,13 +14,13 @@ permalink: /meine-beruflichen-stationen
 * 09/2002 - 07/2004: iXtronics GmbH  
 * 10/1998 - 09/2002: Mechatronik Laboratorium Paderborn
 
-== Unternehmen
+## Unternehmen
 
 Im Rahmen meiner Tätigkeiten war ich für folgende Unternehmen unterwegs:
 
 Deutsche Leasing, Sparkassen Leasing, Formmed, BMW AG, BMW Bank, Ikea, Hubert Burda Media, Deutsche Post DHL, DuPont, Lufthansa Flight Training, WPP Germany, Mewa, Schufa, Finanzinformatik, Provinzial Nordwest, Lufthansa, ADAC, Deutsche Bahn
 
-== Fortbildungen
+## Konferenzen & Trainings
 
 * 03/2019 - Refactoring mit Michael Feathers [Training]
 * 11/2018 - intrinsify.meetup Rhein-Main [Meetup]
@@ -41,7 +41,6 @@ Deutsche Leasing, Sparkassen Leasing, Formmed, BMW AG, BMW Bank, Ikea, Hubert Bu
 * 04/2009 - JAX [Konferenz]
 * 08/2008 - Imperia Administrator [Training]
 * 03/2007 - Enterprise JavaBeans [Training]
-
 * Devoxx [Konferenz]
 * JAX [Konferenz]
 * Entwicklertag Frankfurt [Konferenz]
