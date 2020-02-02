@@ -15,4 +15,4 @@ ca. 45min
 
 ### Nächsten Termine
 
-Bisher sind keine weiteren Termine geplant
+* [SEAC Days vom 21.-23. Aprill in München](https://www.saec-days.de/agenda/vortraege/articles/mi31-spielerisch-qualitaet-entwickeln.html)
