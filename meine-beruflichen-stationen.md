@@ -21,8 +21,9 @@ Im Rahmen meiner Tätigkeiten war ich für folgende Unternehmen unterwegs:
 
 Deutsche Leasing, Sparkassen Leasing, Formmed, BMW AG, BMW Bank, Ikea, Hubert Burda Media, Deutsche Post DHL, DuPont, Lufthansa Flight Training, WPP Germany, Mewa, Schufa, Finanzinformatik, Provinzial Nordwest, Lufthansa, ADAC, Deutsche Bahn
 
-## Konferenzen & Trainings
+## Konferenzen & Meetups & Trainings
 
+* 02/2020 - beta.codex Meetup Rhein Main [Meetup]
 * 03/2019 - Refactoring mit Michael Feathers [Training]
 * 11/2018 - intrinsify.meetup Rhein-Main [Meetup]
 * 08/2018 - #agile.DEV [Meetup]
