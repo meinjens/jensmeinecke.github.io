@@ -6,7 +6,8 @@ permalink: /meine-beruflichen-stationen
 
 ## Arbeitgeber
 
-* 10/2018 - heute: DB Systel
+* 07/2019 - heute: DER Touristik Online GmbH
+* 10/2018 - 06/2019: DB Systel
 * 07/2016 - 09/2018: DER Touristik Online GmbH
 * 12/2011 - 06/2016: Agon Solutions GmbH
 * 09/2007 - 11/2011: ETECTURE GmbH
