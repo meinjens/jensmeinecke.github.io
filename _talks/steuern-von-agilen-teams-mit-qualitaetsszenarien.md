@@ -15,5 +15,6 @@ ca. 45min
 
 ### Nächsten Termine
 
-* [EAM-Community-Treffen am 16. Juni 2020 in Frankfurt](https://www.sn-invent.de)
 * [SEAC Days vom 21.-23. Juli 2020 in München](https://www.saec-days.de/agenda/vortraege/articles/mi31-spielerisch-qualitaet-entwickeln.html)
+* EAM-Community-Treffen 2020 in Frankfurt - Termin steht noch aus
+* QS-Tage 2020 in Frankfurt
