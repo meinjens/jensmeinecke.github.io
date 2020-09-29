@@ -1,8 +1,8 @@
 ---
-title: "Steuern von agilen Teams mit Qualitätsszenarien"
+title: "Spielerisch Qualität entwickeln"
 category: "Talk"
 layout: "talk"
-talk_name: "Steuern von agilen Teams mit Qualitätsszenarien"
+talk_name: "Spielerisch Qualität entwickeln"
 ---
 
 ### Beschreibung
@@ -16,5 +16,6 @@ ca. 45min
 ### Nächsten Termine
 
 * [SEAC Days vom 21.-23. Juli 2020 in München](https://www.saec-days.de/agenda/vortraege/articles/mi31-spielerisch-qualitaet-entwickeln.html)
+* [Tools4AgileTeams vom 03.-04. Dezember 2020 in Wiesbaden](https://www.tools4agileteams.com/konferenzprogramm/track-agile-teamwork/spielerisch-qualitaet-entwickeln-jens-meinecke/)
 * EAM-Community-Treffen 2020 in Frankfurt - Termin steht noch aus
 * QS-Tage 2020 in Frankfurt
