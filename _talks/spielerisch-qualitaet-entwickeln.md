@@ -3,6 +3,8 @@ title: "Spielerisch Qualität entwickeln"
 category: "Talk"
 layout: "talk"
 talk_name: "Spielerisch Qualität entwickeln"
+talk_next_date: "November 2020"
+talk_location: "Online"
 ---
 
 ### Beschreibung
@@ -11,7 +13,7 @@ Wie steuert man agile Teams? Mit Anforderungen! Was sind Qualitätsszenarien? Ko
 
 ### Dauer
 
-ca. 45min
+zwischen 30 und 45min
 
 ### Nächsten Termine
 
