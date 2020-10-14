@@ -29,6 +29,6 @@ Die Teilnehmer sollen einen Eindruck bekommen, welche unterschiedlichen Arten de
 ca. 2h
 
 
-### Weitere Termine
+### Nächste Termine
 
 derzeit nicht geplant

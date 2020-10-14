@@ -6,7 +6,7 @@ permalink: /talks
 ---
 
 <ul class="fa-ul">
-{% assign talks = site.talks | sort: 'talk_end_date' | reverse %}
+{% assign talks = site.talks | sort: 'title' %}
 {% for talk in talks %}
   <li>
     <h3><i class="fa-li fa fa-graduation-cap"></i><a href="{{ talk.url }}">{{ talk.title }}</a></h3>
