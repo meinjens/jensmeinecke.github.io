@@ -3,7 +3,7 @@ title: "Sicher Surfen im Internet"
 category: "Workshop"
 layout: "workshop"
 location: "Rodheim"
-date: "vorraus. 2021"
+next_date: "derzeit nicht geplant"
 ---
 
 Anlass für diesen Workshop sind unschöne Vorfälle in meiner Bekanntschaft. In meinem Umfeld wurden Identitäten gestohlen, Accounts gehackt und Computer gekapert. Die Vorfälle wären vermeidbar gewesen. Also habe ich die wichtigsten Tipps in einem Workshop zusammengestellt. Somit versuche ich den Teilnehmern das notwendig Basiswissen zu vermitteln, um die schlimmsten Katastrophen abzuwenden.
